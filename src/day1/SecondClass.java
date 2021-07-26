@@ -8,6 +8,14 @@ public class SecondClass {
         // work 4 is done
         // work 5 is done as well
 
+
+        // Test Case part1 is done
+        // Test Case part2 is done
+        // Test Case part3 is done
+        // Test Case part4 is done
+        // Test Case part5 is done
+
+
     }
 
 
