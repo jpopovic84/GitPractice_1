@@ -9,6 +9,9 @@ public class ResettingPractice {
         // Test Case part3 is done
         // Test Case part4 is done
         // Test Case part5 is done
+        // Test Case part5 is done
+        // Mixed|Soft reset remove commit from history but keep local changes
+        // I am done here, no more changes
 
 
     }
